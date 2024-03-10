@@ -43,7 +43,7 @@
     width: 100vw;
 }
 .bg-conatiner{
-  background-image: url("./images/bookbackground.avif");
+  background-image: url("./bookbackground.avif");
    background-size: cover;
   height:100vh;
 }
