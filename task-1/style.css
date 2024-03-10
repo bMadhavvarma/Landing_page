@@ -1,0 +1,73 @@
+.logoimage{
+    width: 3rem;
+    height: 3rem;
+    border-radius: 50%;
+  }
+ 
+  .navbar{
+    background-color:antiquewhite !important;
+  }
+  #navItem1 {
+    font-family: "Roboto";
+  }
+  a{
+    font-size: 1rem;
+    word-spacing: 15px;
+  }
+  a:hover{
+    font-size: 1.5rem;
+    color: red !important;
+    font-family:cursive !important;
+    font-style:italic;
+    
+  }
+#navItem2 {
+   font-family: "Roboto";
+   color: black;
+  }
+  #navItem3 {
+   font-family: "Roboto";
+   color: black;
+  }
+  #navItem4 {
+    font-family: "Roboto";
+    color: black;
+  }
+  #navItem5 {
+    font-family: "Roboto";
+    color: black;
+  
+  }
+.home-image{
+    height: 100vh;
+    width: 100vw;
+}
+.bg-conatiner{
+  background-image: url("./images/bookbackground.avif");
+   background-size: cover;
+  height:100vh;
+}
+
+.text{
+  font-family:"roboto";
+  font-size:60px;
+  color: black;
+}
+.text-paragraph{
+  font-family:"roboto";
+  font-size:30px
+}
+.button1{
+  font-weight: 500;
+}
+.secondpage-container{
+  background-color:white;
+  height:fit-content;
+}
+.deliveryimg{
+  height: 20rem;
+  width:20rem ;
+}
+.nav-link{
+  word-spacing: normal !important;
+}
